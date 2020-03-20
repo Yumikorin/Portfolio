@@ -1,0 +1,75 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: cursive;
+}
+.main {
+    background-color: #fffaf0;
+}
+.main-logo {text-align:center;}
+.main-logo h1 {
+  color: #cc836a;
+  position: absolute;
+  top: 40%;
+  left: 48%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+  font-size: 100px
+}
+.main-one {
+    color: #cc836a;
+    font-size: 25px;
+}
+.main-About {
+    height: 80px;
+    background-color: #ffcccc;
+    color: #4d3939;
+    font-size: 40px;
+    font-weight: bold;
+}
+.main-naiyou {
+    color: #666666;
+    font-size: 25px;
+    font-weight: 650;
+}
+.main-like {
+    height: 80px;
+    background-color: #ffcccc;
+    color: #4d3939;
+    font-size: 40px;
+    font-weight: bold;
+}
+.main-likes {
+    color: #666666;
+    font-size: 25px;
+    font-weight: 650;
+}
+.original {
+    height: 80px;
+    background-color: #faa596;
+    color: #4d3939;
+    font-size: 40px;
+    font-weight: bold;
+}
+.Azuki-pro {
+    color: #666666;
+    font-size: 25px;
+    font-weight: 650;
+}
+.Azuki-pro img {
+    float: left;
+}
+.Azuki-pro h3 {
+    position: absolute;
+  color: #666666;
+  top: 0;
+  left: 0;
+
+}
+
